@@ -1,0 +1,10 @@
+# Rust build output
+target/
+**/*.rlib
+**/*.o
+**/*.wasm
+
+# Trunk / Leptos / wasm-bindgen output
+dist/
+pkg/
+.trunk/
